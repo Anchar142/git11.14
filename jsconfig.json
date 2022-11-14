@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    //装饰器语法
+    "experimentalDecorators": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [".src/*"]
+    }
+  },
+  "exclude": ["node_modules", "dist"]
+}
