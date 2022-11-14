@@ -1,0 +1,17 @@
+body{
+    font:14px/1.5em 微软雅黑;
+    color:#999;
+    background: url("../img/2.jpg");
+    }
+    div#app{
+    background: #090;
+    color:#fff;
+    width: 400px;
+    height: 400px;
+    }
+    div#app div{
+    width: 200px;
+    height: 200px;
+    background: #090;
+    }
+    

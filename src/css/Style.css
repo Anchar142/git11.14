@@ -1,0 +1,13 @@
+ul.one {
+  border: 1px solid #f0f;
+  width: 400px;
+  height: 400px;
+}
+
+ul.load {
+  background: url(./../img/1.gif) no-repeat 50% 50%;
+}
+
+div.one {
+  color: #f00;
+}
